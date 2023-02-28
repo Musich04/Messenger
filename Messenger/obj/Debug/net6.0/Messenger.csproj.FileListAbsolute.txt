@@ -1,0 +1,15 @@
+G:\VS Projects\Messenger\bin\Debug\net6.0\Messenger.exe
+G:\VS Projects\Messenger\bin\Debug\net6.0\Messenger.deps.json
+G:\VS Projects\Messenger\bin\Debug\net6.0\Messenger.runtimeconfig.json
+G:\VS Projects\Messenger\bin\Debug\net6.0\Messenger.dll
+G:\VS Projects\Messenger\bin\Debug\net6.0\ref\Messenger.dll
+G:\VS Projects\Messenger\bin\Debug\net6.0\Messenger.pdb
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.csproj.AssemblyReference.cache
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.GeneratedMSBuildEditorConfig.editorconfig
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.AssemblyInfoInputs.cache
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.AssemblyInfo.cs
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.csproj.CoreCompileInputs.cache
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.dll
+G:\VS Projects\Messenger\obj\Debug\net6.0\ref\Messenger.dll
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.pdb
+G:\VS Projects\Messenger\obj\Debug\net6.0\Messenger.genruntimeconfig.cache
